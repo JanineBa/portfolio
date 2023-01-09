@@ -1,0 +1,132 @@
+---
+layout: project
+title: Advocate
+subtitle: Running app for prevention of injuries
+subsubtitle: February 2019
+image: Advocate.png
+---
+
+<div class="projectHeaderPic"></div>
+
+<div class="section">
+  <div class="row">
+    <div class="col-lg-6">
+      <h2>Project Vison</h2>
+      <p class="text-left">Advocate monitors ankle injuries for professional runners. The information is collected via a sensor attached to the running shoes. The sensor tracks the ankle tilting to determine an overload of inversion or eversion. The sensors on each foot show a status light of the information and send it via Bluetooth to a bracelet. The athlete gets visual and haptic feedback from the bracelet.
+      After a running session, the athlete can check performance data on the Advocate App. Besides, the coach of the
+      athlete get a summarization.
+      </p>
+    </div>
+     <div class="col-lg-6">
+      <h2>Cooperation</h2>
+      <p>This study project was designed in the second year of my UXD studies in teamwork with Lena Stütz and Martin Gädeke.
+      The project is in cooperation with the Queensland University of Technology. The product design of the running shoe sensor is from Luis Tee.
+      </p>
+    </div>
+</div>
+</div>
+
+<div class="section spacer">
+  <div class="row spacer">
+    <div class="col-lg-12">
+      <h2>Personas</h2>
+      <p>We focused our concept on professional runners with ankle issues. The Personas Harry Hurt and William Whip are fictional characters with different special needs.</p>
+    </div>
+    <div class="col-lg-12">
+    <div class="col-lg-12">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="row">
+             <div class="col-s-3 img-circle-pad">
+              <img src="{{ site.image_path }}/advocate/advPersonaHarryHurt.png" class="img-circle" width="100">
+            </div> 
+            <div class="col-s-9">
+              <h3>Harry Hurt</h3>
+              <p class="text-left text-muted">Young athlete</p>
+              <p class="text-left">"I am too often too ambitions."</p>
+            </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="row">
+            <div class="col-s-3 img-circle-pad">
+              <img src="{{ site.image_path }}/advocate/advPersonaWilliamWhip.png" class="img-circle" width="100" >
+            </div> 
+            <div class="col-s-9">
+              <h3>William Whip</h3>
+              <p class="text-left text-muted">His coach</p>
+              <p class="text-left">"I often struggle with todays technology."</p>
+            </div>
+          </div>
+         </div>
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row spacer"></div>
+
+  <div class="section spacer"> 
+    <div class="row">
+    <div class="col-lg-6">
+      <h2>Paper prototyping</h2>
+      <p class="cl-lg-4 text-left">We started scratching and paper prototyping to visualize our first ideas for the information architecture and features of the app. We found out that it is necessary to have two different views for Harry Hurt and William Whip. One for live tracking the running results and immediately giving feedback. The other focuses on the training results.
+      </p>
+    </div>
+      <div class="col-lg-6">
+        <img src="{{ site.image_path }}/advocate/advPaperprototype.jpg" width="70%">
+      </div>
+    </div>
+  </div>
+
+  <div class="section spacer">
+    <div class="row spacer">
+      <div class="col-lg-12">
+        <h2>Wireframes</h2>
+          <p class="cl-lg-4 text-left">We drafted Wireframes to get an overview of the complexity of the concept. It also describes the structure and content of each screen.
+          </p>
+          <div class="text-center">
+           <img src="{{ site.image_path }}/advocate/advWireframe.png" width="95%">
+         </div>  
+      </div>
+    </div>  
+  </div>
+
+
+<div class="row spacer"></div> 
+
+  <div class="section spacer"> 
+    <div class="row spacer">
+    <div class="col-lg-6">
+      <h2>Moodboard</h2>
+      <p class="cl-lg-4 text-left">The moodboard shows, that our design is predominantly discreet in white. The attention of the athlete and coach should be drawn by the colours green, yellow and red like a traffic light system. 
+      </p>
+    </div>
+     <div class="col-lg-6">
+     <img src="{{ site.image_path }}/advocate/advMoodboard.png" width="95%">
+    </div>
+</div>
+
+  <div class="section spacer">
+    <div class="row spacer">
+      <div class="col-lg-12">
+        <h2>Prototype</h2>
+          <p class="cl-lg-4 text-left">The athletes training is tracked by the watch. The watch sends the data to the app. 
+          The app gives immediate feedback about the running session and overall statistics related to the time range. That's how it supports minimizing injuries.
+          A quick check-up about the feeling of the athlete is additionally collected. After the training, the coach controls the training data as well for additional support against injury prevention.
+          </p>
+         </div>  
+        </div>
+    </div>  
+   </div>
+
+   <div class="row">
+     <div class="row spacer text-center iframe-container">
+        <iframe class="example" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/dhLVDUZhvxk?rel=0&amp;autoplay=0&mute=1" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>  
+  </div>
+
+ 
+
+
