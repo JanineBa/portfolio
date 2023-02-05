@@ -49,10 +49,10 @@ image: bergigApp.png
       <div class="row spacer"></div> 
       <div class="row text-center">
       <h3>Quotes of all personas</h3>
-      <img src="{{ site.image_path }}/bergig/bergPersonaStory.png" width="95%">
+      <img src="../{{ site.image_path }}/bergig/bergPersonaStory.png" width="95%">
       <div class="row spacer"></div> 
       <h3>Focus persona Susan Sun</h3>
-      <img src="{{ site.image_path }}/bergig/bergPersonaSusanSun.png" width="95%">
+      <img src="../{{ site.image_path }}/bergig/bergPersonaSusanSun.png" width="95%">
       </div> 
       
   </div> 
@@ -67,30 +67,30 @@ image: bergigApp.png
   <div class="row spacer">
       <h2>Sitemap</h2>
       <p>The site map consists of the central pages Home for finding tours, Tours for saved tours, Plan for a packing list and the Profile. You can navigate to these four pages at any time.</p>
-      <img src="{{ site.image_path }}/bergig/bergSitemap.png" width="95%">
+      <img src="../{{ site.image_path }}/bergig/bergSitemap.png" width="95%">
  </div>  
 
    <div class="row spacer">
     <h2>Moodboard</h2>
     <p>The subtle, clean UI design highlights images. The images show bright, sunny and alpine landscapes, some with athletes. The rounded corners should intent to give the design a soft, friendly and trustworthy effect.</p>
-    <img src="{{ site.image_path }}/bergig/bergMoodboard.png" width="95%">  
+    <img src="../{{ site.image_path }}/bergig/bergMoodboard.png" width="95%">  
   </div> 
 
 
   <div class="row spacer">
     <h2>Sketching</h2>
     <p>Quickly visualise initial ideas with Sketching. The sketches show different variants of a mini quiz, rewards for the result of the quiz and a possible design of a packing list.</p>
-    <img src="{{ site.image_path }}/bergig/bergSketching.png" width="95%">
+    <img src="../{{ site.image_path }}/bergig/bergSketching.png" width="95%">
   </div> 
   
   <div class="row spacer">
     <h2>Styleguide poster</h2>
-   <img src="{{ site.image_path }}/bergig/bergStyleguidePoster.png" width="100%">
+   <img src="../{{ site.image_path }}/bergig/bergStyleguidePoster.png" width="100%">
  </div>  
 
  <div class="row spacer">
     <h2>Design</h2>
-   <img src="{{ site.image_path }}/bergig/bergAppScreens6.png" width="95%">
+   <img src="../{{ site.image_path }}/bergig/bergAppScreens6.png" width="95%">
  </div>  
 
 
@@ -98,7 +98,7 @@ image: bergigApp.png
     <h3>Prototyp</h3>
     <p></p>
     <video width="300" height="600" controls>
-      <source src="{{ site.video_path}}/Wireframes_BergigVideo.mp4" type="video/mp4">
+      <source src="../{{ site.video_path}}/Wireframes_BergigVideo.mp4" type="video/mp4">
     </video>
   </div> 
 </div> 
