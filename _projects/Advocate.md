@@ -50,7 +50,7 @@ image: Advocate.png
       <div class="col-lg-6">
         <div class="row">
             <div class="col-s-3 img-circle-pad">
-              <img src="{{ site.baseurl }}/{{ site.image_path }}/advocate/advPersonaWilliamWhip.png" class="img-circle" width="100" >
+              <img src="../{{ site.image_path }}/advocate/advPersonaWilliamWhip.png" class="img-circle" width="100" >
             </div> 
             <div class="col-s-9">
               <h3>William Whip</h3>
@@ -75,7 +75,7 @@ image: Advocate.png
       </p>
     </div>
       <div class="col-lg-6">
-        <img src="{{ site.baseurl }}/{{ site.image_path }}/advocate/advPaperprototype.jpg" width="70%">
+        <img src="../{{ site.image_path }}/advocate/advPaperprototype.jpg" width="70%">
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@ image: Advocate.png
           <p class="cl-lg-4 text-left">We drafted Wireframes to get an overview of the complexity of the concept. It also describes the structure and content of each screen.
           </p>
           <div class="text-center">
-           <img src="{{ site.baseurl }}/{{ site.image_path }}/advocate/advWireframe.png" width="95%">
+           <img src="../{{ site.image_path }}/advocate/advWireframe.png" width="95%">
          </div>  
       </div>
     </div>  
@@ -104,7 +104,7 @@ image: Advocate.png
       </p>
     </div>
      <div class="col-lg-6">
-     <img src="{{ site.baseurl }}/{{ site.image_path }}/advocate/advMoodboard.png" width="95%">
+     <img src="../{{ site.image_path }}/advocate/advMoodboard.png" width="95%">
     </div>
 </div>
 
