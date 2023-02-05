@@ -38,7 +38,7 @@ image: Advocate.png
       <div class="col-lg-6">
         <div class="row">
              <div class="col-s-3 img-circle-pad">
-              <img src="{{ site.baseurl }}/{{ site.image_path }}/advocate/advPersonaHarryHurt.png" class="img-circle" width="100">
+              <img src="../{{ site.image_path }}/advocate/advPersonaHarryHurt.png" class="img-circle" width="100">
             </div> 
             <div class="col-s-9">
               <h3>Harry Hurt</h3>
